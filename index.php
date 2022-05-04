@@ -4,7 +4,7 @@ include 'header.php'
 
 ?>
 
-<main>
+<main class=container>
     <div> 
         <h1> Bienvenue à tous sur ce super site </h1>
         <p> J'ai créé ce site comme une outils de formalisation de ce que nous voyons pendant les temps de formation.</p>
