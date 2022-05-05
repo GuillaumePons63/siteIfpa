@@ -8,8 +8,9 @@
     <body class=container>
         <header>
             <nav class="nav bg-light bg-gradient">
-                <a class="nav-link" href="index.php"> Accueil </a>
+                <a class="nav-link active" href="index.php"> Accueil </a>
                 <a class="nav-link" href="cours.php"> Les cours </a>
+                <a class="nav-link" href="exercice.php"> Des exercices </a>
                 <a class="nav-link" href="maquette.php"> Maquettes à reproduire </a>
                 <a class="nav-link" href="git.php"> Git </a>
                 <!-- <a class="nav-link" href="algorithme.php"> L'algorithme </a> -->
