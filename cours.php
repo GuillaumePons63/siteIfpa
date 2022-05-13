@@ -22,6 +22,16 @@ include 'header.php'
     <p> Calmez vous jeunes Padawans. Je pense qu'il est bien de commencer par bien comprendre la notion d'algorithme. Je conseille les vidéos de grafikart pour commencer. </p>
     <p> Elles sont disponibles <a href="https://grafikart.fr/formations/apprendre-algorithmique"> ici</a>.</p>
 
+    <h3>Les API</h3>
+    <p>Bande de jeunes freluquets, vous pouvez cliquez sur le lien suivant pour apprendre l'univers merveilleux des API:</p>
+    <p>Disponible <a href="api.php">ici.</a></p>
+    <br><br>
+
+
+
+
+
+
 </main>
 
 <?php
