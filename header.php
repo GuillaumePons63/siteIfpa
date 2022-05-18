@@ -15,6 +15,8 @@
                 <a class="nav-link" href="git.php"> Git </a>
                 <!-- <a class="nav-link" href="algorithme.php"> L'algorithme </a> -->
                 <a class="nav-link" href="creation.php"> Vos créations </a>
+                <a class="nav-link" href="apprendre.php"> Apprendre </a>
+                
             </nav>
         </header>
 

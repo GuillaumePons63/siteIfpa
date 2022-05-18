@@ -1,0 +1,36 @@
+main {
+    text-justify: auto;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+#one-ask {
+    font-size: 30px;
+}
+
+#one-para {
+    line-height: 1.6;
+}
+
+#two-ask {
+    font-size: 30px;
+}
+
+#two-para {
+    line-height: 1.6;
+}
+
+#three-ask {
+    font-size: 30px;
+}
+
+#three-para {
+    line-height: 1.6;
+}
