@@ -27,6 +27,10 @@ include 'header.php'
     <p> Vous cherchez un cours assez général sur les API et leur fonctionnement ?</p>
     <p> Il sont disponibles <a href="api.php"> ici</a>.</p>
 
+    <h3> La selection Youtube de Theo ! </h3>
+    <p> Voici quelques chaines Youtubes qui pourront vous plaire et même vous aider pour vos projets !</p>
+    <p> Il sont disponibles <a href="ytbselection.php"> ici</a>.</p>
+
     
 
 </main>
