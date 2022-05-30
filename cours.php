@@ -18,6 +18,8 @@ include 'header.php'
     <p> Les deux pilliers du web. Pour résumer, HTML permet d'organiser le fond d'une page web, CSS sert à sa mise en forme.</p>
     <p> Quand vous parlez du TP de ZOZOR, beaucoup de développeurs savent de quoi il s'agit, car on est nombreux à avoir suivi le cours de Mathieu Nebrat. Maintenant il date un peu, mais il est toujours une référence dans le milieu. Disponible <a href="https://openclassrooms.com/fr/courses/1603881-apprenez-a-creer-votre-site-web-avec-html5-et-css3"> ici</a>.</p>
 
+    <p> Nous avons ici le cours que nous avons créez <a href=htmlcss.php> HTML et CSS </a></p>
+
     <h3> PHP et Javascript </h3>
     <p> Calmez vous jeunes Padawans. Je pense qu'il est bien de commencer par bien comprendre la notion d'algorithme. Je conseille les vidéos de grafikart pour commencer. </p>
     <p> Elles sont disponibles <a href="https://grafikart.fr/formations/apprendre-algorithmique"> ici</a>.</p>
