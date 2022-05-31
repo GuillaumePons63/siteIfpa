@@ -9,6 +9,7 @@
             <p> Ecrire au web master : guillaume@web-63.fr </p>
         </div>
         <div class="col-3"></div>
+    </div>
     <div class=row> 
     </div>
 </footer> 
